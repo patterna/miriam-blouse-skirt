@@ -1,4 +1,6 @@
-# Miriam Blouse and Skirt Pattern
+# Sample pattern for patterna.org
+
+This repository contains a sample of the content needed to fully and correctly describe a pattern on [patterna.org](http://patterna.org).
 
 
 **Pattern name**: Miriam Blouse and Skirt
